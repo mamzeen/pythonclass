@@ -75,7 +75,7 @@ def register():
         print("Your Account Has been created")
         print(" == ==== ====== ===== ===")
         print("Your account number is: %d" % account_number)
-        print("Make sure you keep it safe")
+        print("Make sure you keep your account number safe")
         print(" == ==== ====== ===== ===")
 
         login()
